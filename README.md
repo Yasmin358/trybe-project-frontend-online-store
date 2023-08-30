@@ -27,7 +27,8 @@
 
 
 <h3 id="demostração"> 🔭 Demostração </h3>
-
+  <img src="./src/images/demo.gif" alt="Online Store Demo">
+  
 <h3 id="tecnologias-habilidades"> 💻 Tecnologias e Habilidades usadas no Projeto </h3>
    <ul>
      <li>HTML</li>
