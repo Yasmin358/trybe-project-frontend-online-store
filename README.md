@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#atualizações">Futuras Atualizações</a> •
   <a href="#demostração">Demostração</a> •
   <a href="#tecnologias-habilidades">Tecnologias e Habilidades</a> •
   <a href="#acesso-ao-projeto">Acesso ao projeto</a> •
@@ -19,6 +20,11 @@
 - Adicionar e remover produtos do carrinho de compras em diferentes quantidades; <br />
 - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações. <br />
 - Simular a finalização da compra dos itens selecionados. <br />
+
+<h3 id="atualizações"> Futuras Atualizações </h3>
+  • Terminar pagina de Checkout - Requisito 12
+  • Exibir o carrinho de compras na tela principal - Requisito Bonûs
+
 
 <h3 id="demostração"> 🔭 Demostração </h3>
 
