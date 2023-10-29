@@ -16,14 +16,14 @@
 </p>
 
 <h3 id="funcionalidades"> 🔨 Funcionalidades </h3>
-- Buscar produtos por termos e categorias a partir da API do Mercado Livre; <br />
+- Buscar produtos por termos e categorias a partir da API do Mercado Livre; <br/>
 - Adicionar e remover produtos do carrinho de compras em diferentes quantidades; <br />
 - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações. <br />
 - Simular a finalização da compra dos itens selecionados. <br />
 
 <h3 id="atualizações"> Futuras Atualizações </h3>
-  • Terminar pagina de Checkout - Requisito 12
-  • Exibir o carrinho de compras na tela principal - Requisito Bonûs
+  • Terminar pagina de Checkout - Requisito 12 <br />
+  • Exibir o carrinho de compras na tela principal - Requisito Bonûs <br />
 
 
 <h3 id="demostração"> 🔭 Demostração </h3>
@@ -66,7 +66,7 @@
 
   <h3 id="creditos"> ✍️ Creditos </h3>
     
-  O Projeto Online Store foi desenvolvido em grupo no curso Desenvolvimento Fullstack da TRYBE, no modulo de Frontend.
+  O Projeto Online Store foi desenvolvido em grupo no curso Desenvolvimento Fullstack da TRYBE, no modulo de Frontend. <br />
   Membros: <a href="https://www.linkedin.com/in/yasminamorins/">Yasmin Amorin</a> , <a href="https://www.linkedin.com/in/turevel/">Leonardo C Araújo</a>, <a href="https://www.linkedin.com/in/harumi-maeda/">Harumi Maeda</a>, <a href="https://www.linkedin.com/in/leandrodacostacoelho/">Leandro Coelho</a>, <a href="https://www.linkedin.com/in/thiagovianadev/">Thiago Viana</a>
   <h4>Requisitos do projeto: </h4>
   <strong>Obrigatórios</strong> <br/>
